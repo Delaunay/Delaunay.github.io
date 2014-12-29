@@ -1,0 +1,16 @@
+# Site settings
+
+title: Pierre Delaunay
+email: pierre.delaunay@outlook.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+github_username:  Delaunay
+linkedin_username:  Delaunay
+
+# Build settings
+markdown: kramdown
