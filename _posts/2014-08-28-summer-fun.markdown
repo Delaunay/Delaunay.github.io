@@ -10,14 +10,14 @@ Summer holidays programming ...
 Proof of concept program. 
 
 The idea was to create a program similar to a spreadsheet but
-without its short coming:
+without its short comings:
 
 * Before: A spreadsheet quickly becomes messy, with graphics and variables everywhere
-  * Now: Variables and graph appear in a tool box
+  * Now: Variables and graphs appear in a tool box
 * Before: Scripting was annoying
   * Now: A Python console is given, allowing you to do whatever you want
 * Before: Generalization to other data set is hard
-  * Now: Every action is saved as python code and can be executed on any other data set
+  * Now: Every action is saved in python code and can be executed on any other data set
 
 ## Open a table from the main database
 ![1]
