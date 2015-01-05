@@ -6,16 +6,16 @@ permalink: /projects/
 
 # [Vanagandr][3]
 
-This is a simple library regrouping different kind of algorithm seen in class for which
-I wanted to experiment on. It includes numeric method such as tools for integration and equation solver.
-It also includes pricing algorithm such as Binomial Tree and Trinomial Tree (whith different adjustement).
+This is a simple library regrouping different kinds of algorithms seen in class which
+I wanted to experiment with. It includes numeric methods such as tools for integration and equation solving.
+It also includes pricing algorithms such as the Binomial Tree and the Trinomial Tree (with different adjustements).
 
 # [Strat3][1]
 
-Strat3 is a general backtester meant to be able to measure the performance and diagnostic
+Strat3 is a general backtester meant to measure performance and diagnostic
 strategies. It is mainly built in C++. Python bindings are currently being implemented.
-The programming design was inspired by Agent Based models in economics. Each actions are
-broke down into small pieces allowing for a maximum flexibility.
+The programming design was inspired by Agent Based models in economics. Each action are
+broken down into small pieces allowing maximum flexibility.
 
 [1]: /projects/strat3
 [3]: /projects/vanagandr

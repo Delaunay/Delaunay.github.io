@@ -8,7 +8,7 @@ permalink: /resume/
 
 |--------------------:|--|---------------------------------------------------|---|
 |                     |  |Programmer at Alpeh Fund                           |   |
-| Current Jan 2014    |  |The algorithmic and Forex trading association of HEC Montreal. We seek and implement strategies on foreign exchange market. During my first year, we have built key tools for algorithmic trading. I personnaly took care of programming our data retrieving tool : *BLBW* which seek data from the Bloomberg plateform and save them as a SQL database using a standardized ticker                                                               |   |
+| Current Jan 2014    |  |The algorithmic and Forex trading association of HEC Montreal. We seek and implement strategies on foreign exchange market. During my first year, we built key tools for algorithmic trading. I personnaly took care of programming our data retrieving tool : *BLBW* which seeks data from the Bloomberg plateform and saves them as a SQL database using a standardized ticker                                                               |   |
 |             |  |                                                   |   |
 
 # Education
