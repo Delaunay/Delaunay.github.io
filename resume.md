@@ -8,22 +8,18 @@ permalink: /resume/
 
 |--------------------:|--|---------------------------------------------------|---|
 |                     |  |Programmer at Alpeh Fund                           |   |
-| Current Jan 2014    |  |The algorithmic and Forex trading association of HEC Montreal. We seek and implement strategies on foreign exchange market. During my first year, we built key tools for algorithmic trading. I personnaly took care of programming our data retrieving tool : *BLBW* which seeks data from the Bloomberg plateform and saves them as a SQL database using a standardized ticker                                                               |   |
+| Jan 2014            |  |The algorithmic and Forex trading association of HEC Montreal. We seek and implement strategies on foreign exchange market. During my first year, we built key tools for algorithmic trading. I personnaly took care of programming our data retrieving tool : *BLBW* which seeks data from the Bloomberg plateform and saves them as a SQL database using a standardized ticker                                                               |   |
 |             |  |                                                   |   |
 
 # Education
 
 |------------:|------------------------------------------------------|---|
-| May 2016    |   Msc **Finance**, *HEC Montreal*,  Montreal, Canada |   |
-|             |   Expected graduation date : May 2016                |   |
-
+| Winter 2015 |   Msc **Computer Science**, *UdeM*,  Montreal, Canada|   |
+| Fall 2014   |   Msc **Finance**, *HEC Montreal*,  Montreal, Canada |   |
 | May 2014    |   Bachelor of **Business Administration**, *HEC Montreal*, Montreal, Canada    |   |
 |             |   Major: Finance, Minor : Economy                    |   |
-
 | Fall 2012   |   Exchange Semester at *EWHA Woman’s University*, Seoul, South Korea           |   |
-
 | May 2011    |   B.B.A Preparatory Year at *HEC Montreal*, Montreal, Canada                   |   |
-
 | July 2010   |   French Baccalaureate of Science at *Lycée Notre Dame*, La salle de Vihiers, France   |   |
 |             |                                                      |   |
 

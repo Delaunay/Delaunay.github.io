@@ -5,11 +5,16 @@ permalink: /projects/strat3/
 categories: project
 ---
 
+[**Proprietary**]
+
 # Introduction
 
-Strat3 is a general backtester. It is build to measure performance of financial strategies.
+Strat3 is a general backtester meant to measure performance and diagnostic strategies. It is mainly built in C++. Python bindings are currently being implemented. The programming design was inspired by Agent Based models in economics. Each action are broken down into small pieces allowing maximum flexibility.
+
 
 # Generated Report
+
+Output example:
 
 [2015-01-05 Report Example Tex][3]
 

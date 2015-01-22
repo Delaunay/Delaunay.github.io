@@ -5,6 +5,12 @@ permalink: /projects/vanagandr/
 categories: project
 ---
 
+[[Source]][1]
+
+# Introduction
+
+This is a simple library regrouping different kinds of algorithms seen in class which I wanted to experiment with. It includes numeric methods such as tools for integration and equation solving. It also includes pricing algorithms such as the Binomial Tree and the Trinomial Tree (with different adjustements).
+
 # Implemented
 
 * Binomial Tree (Eu - AM)
@@ -14,7 +20,7 @@ categories: project
   * Tian parametrization with Broadie et Detemple (1996) adjustment
   
 * Explicit Finite Difference (Eu - AM)
-  * 1 Dimension
+  * 1 Dimension (matlab must be adapted)
 
 * Numeric Integration
   * Rectangle
@@ -24,10 +30,5 @@ categories: project
   * Gauss Chebyshev 1-2
   
   
-# Reference
-
-[1] Cox, J., S. Ross et M. Rubinstein, 1979, "Option Pricing: A Simplified Approach"
-
-
-[2] Broadie, M. et J. Detemple, 1996 "American Option Valuation: New Bounds, Approximation, and a Comparison of Existing Methods"
-
+  
+[1]: https://github.com/Delaunay/vanagandr
