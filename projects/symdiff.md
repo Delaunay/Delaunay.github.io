@@ -6,15 +6,15 @@ categories: project
 ---
 
 [Symdiff][1] is a symbolic differentiation library. I made it to better understand 
-how Theano and Tensorflow work internally. I made several implementations
+how Theano and Tensorflow work internally. I made several implementations 
 in different languages, including C++, C and python. I also added LLVM-IR codegen
-as I have always been interested in using LLVM in one of my projects.
+as I have always been interested in using LLVM in one of my projects. 
 
-Why have I implemented the same thing 3 times? It was easier to start out
+Why have I implemented the same thing 3 times? It was easier to start out 
 with a garbage collected language (python). Later, I wanted to
-see how I could do it in C++ without losing too much expressivity (the C++
+ see how I could do it in C++ without losing too much expressivity (the C++
 version is more complicated but the public API is almost as simple
-as python's). Finally, since Object Oriented programming is a wonderful tool to build graphs, I wanted to
+ as python's). Finally, since Object Oriented programming is a wonderful tool to build graphs with, I wanted to 
 try to build my own OOP system in C with virtual calls (inheritance is also
 supported in a way).
 
