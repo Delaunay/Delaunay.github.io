@@ -1,5 +1,5 @@
 _site
 .sass-cache
-_draft
-_site
 *~
+*old*
+/_draft/
